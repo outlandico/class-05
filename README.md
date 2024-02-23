@@ -26,9 +26,9 @@ This lab will have starter code provided. Work with your instructor directly to 
 
 ### Submission Instructions
 
-Make sure your *main* branch is up to date with your most recent code. 
+Make sure your *main* branch is up to date with your most recent code.
 - In the submission area, paste a link to your GitHub repo for this project.
 - Add a comment to this Canvas submission with answers to the following questions.
-  - How did this go, overall?
-  - What observations or questions do you have about what you've learned so far?
-  - How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?
+- How did this go, overall?
+- What observations or questions do you have about what you've learned so far?
+- How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?
